@@ -13,7 +13,7 @@ spec:
 
   # Source of the application manifests
   source:
-    repoURL: https://github.com/imusmanmalik/gitops-certification-examples/tree/main
+    repoURL: https://github.com/imusmanmalik/gitops-certification-examples
     targetRevision: HEAD
     path: ./declarative/manifests
    
